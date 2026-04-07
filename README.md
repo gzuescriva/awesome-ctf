@@ -249,6 +249,7 @@ Check solve section for steganography.
 
 - [CSWSH](http://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
 - [Request Bin](https://requestbin.com/) - Lets you inspect http requests to a particular url.
+- [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
 
 ## Steganography
 
