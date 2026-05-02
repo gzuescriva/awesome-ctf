@@ -333,6 +333,7 @@ Check solve section for steganography.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
+- [Pentest Mindmap](https://pentestmindmap.com) - Interactive mindmap with 11,600+ pentesting commands, ideal for practicing and learning CTF-relevant techniques (web, pwn, network, privilege escalation)
 
 
 ## Wargames
